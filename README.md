@@ -5,6 +5,7 @@ The following features are added to Gara's script:
 *Activation functions ((leaky)ReLu, sine and sigmoid)
 *bootstrap
 The data is from a paper by Killian (2019) and can be downloaded at the link below.
+Further information can be found in the pdf of my thesis.
 
 References:
 Gara, G.P. (2020). https://github.com/glenngara/tutorials
