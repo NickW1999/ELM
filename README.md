@@ -1,5 +1,5 @@
 # ELM
-This script contains an funxtion for an extreme learning machine.
+This script contains a function for an extreme learning machine.
 It is based on the paper by Huang and Siew (2004) and the script is based on Gara (2020).
 The following features are added to Gara's script: 
 *Activation functions ((leaky)ReLu, sine and sigmoid)
